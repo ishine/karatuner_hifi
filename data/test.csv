@@ -1,0 +1,5 @@
+﻿speaker,id,subset,path
+S1,TEST1,train,S1/TEST1/
+S1,TEST2,train,S1/TEST2/
+S1,TEST3,train,S1/TEST3/
+S1,TEST4,train,S1/TEST4/
